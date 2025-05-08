@@ -1,0 +1,1 @@
+FROM typesense/typesense:latest
